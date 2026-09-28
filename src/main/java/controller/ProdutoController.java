@@ -5,7 +5,6 @@ import database.RedisConnection;
 import model.Produto;
 import redis.clients.jedis.Jedis;
 import java.util.List;
-import java.util.ArrayList;
 
 
 public class ProdutoController {
